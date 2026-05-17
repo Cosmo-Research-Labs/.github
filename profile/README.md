@@ -1,5 +1,4 @@
 <div align="center">
-
 # COSMO RESEARCH LABS
 ### Independent Research in Aerospace & Artificial Intelligence
 
