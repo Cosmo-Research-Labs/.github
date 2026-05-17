@@ -127,17 +127,6 @@ To discuss collaboration, reach out at **research@cosmoreslabs.com** with the su
 
 ---
 
-## Founder
-
-### Achitya Kushwaha
-**Founder — Cosmo Research Labs**
-
-Independent researcher working across embedded systems, autonomous UAV architectures, and aerospace systems engineering. Currently leading development of Cosmo I&P as CRL's first experimental research platform, with four research threads targeting publication at IEEE and robotics journals. CRL's long-term mission is to become a world-class private research institution — operating in aerospace and artificial intelligence on the Bell Labs model: not building products, but advancing the foundational science the industry depends on.
-
-> *"Build systems that outlast you."*
-
----
-
 ## Connect
 
 **Web** — [cosmoreslabs.com](https://cosmoreslabs.com)
