@@ -3,7 +3,7 @@
 # COSMO RESEARCH LABS
 ### Independent Research in Aerospace & Artificial Intelligence
 
-**cosmoreslabs.com** · research@cosmoreslabs.com · [@cosmo.reslabs](https://instagram.com/cosmo.reslabs)
+**cosmoreslabs.com** · research@cosmoresearchlabs.com · [@labs_cosmo](https://instagram.com/labs_cosmo)
 
 ---
 
@@ -129,9 +129,9 @@ To discuss collaboration, reach out at **research@cosmoreslabs.com** with the su
 
 ## Connect
 
-**Web** — [cosmoreslabs.com](https://cosmoreslabs.com)
-**Email** — research@cosmoreslabs.com
-**Instagram** — [@cosmo.reslabs](https://instagram.com/cosmo.reslabs)
+**Web** — [cosmoresearchlabs.com](https://cosmoresearchlabs.com)
+**Email** — research@cosmoresearchlabs.com
+**Instagram** — [@labs_cosmo](https://instagram.com/labs_cosmo)
 ---
 
 <div align="center">
